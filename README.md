@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sachin Kumar</h1>
-<h3 align="center">A passionate Backend developer. I am very much interested in coding & designing, also love to learn new technology.I am always motivated towards learning new things. I am a team player and give 100% towards my work. My dream is to become a successful <--\ FULL STACK DEVELOPER /--></h3>
+<h3 align="center">A passionate Backend developer with a keen interest in coding, design, and continuous learning. I thrive on exploring new technologies and methodologies to enhance my skills. Committed to giving my best, I actively contribute as a team player. My aspiration is to evolve into a successful Full Stack Developer, proficient in both frontend and backend development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin121kum&label=Profile%20views&color=0e75b6&style=flat" alt="sachin121kum" /> </p>
 
